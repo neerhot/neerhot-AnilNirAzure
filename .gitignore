@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Code/v17/.wsuo
+/AzureMVC/.vs/AzureMVC/config/applicationhost.config
+*.vsidx
+/AzureMVC/AzureMVC/obj/Debug/AzureMVC.csproj.AssemblyReference.cache
+/AzureMVC/AzureMVC/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
