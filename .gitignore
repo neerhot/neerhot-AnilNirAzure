@@ -2,8 +2,17 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Code/v17/.wsuo
-/AzureMVC/.vs/AzureMVC/config/applicationhost.config
-*.vsidx
+/.vs/Code/v17
+/AzureMVC/.vs/AzureMVC/FileContentIndex
+/AzureMVC/AzureMVC/.vs
 /AzureMVC/AzureMVC/obj/Debug/AzureMVC.csproj.AssemblyReference.cache
 /AzureMVC/AzureMVC/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.CopyComplete
+/AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/build/Rules/cs-CZ
+/AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/build/Rules
+/AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/build
+/AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/tools
+*.p7s
+*.md
+*.nupkg
+*.txt
