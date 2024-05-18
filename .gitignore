@@ -2,11 +2,12 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Code/v17/.wsuo
-/AzureMVC/.vs/AzureMVC/config/applicationhost.config
-*.vsidx
+/.vs/Code/v17
+/AzureMVC/.vs/AzureMVC/FileContentIndex
+/AzureMVC/AzureMVC/.vs
 /AzureMVC/AzureMVC/obj/Debug/AzureMVC.csproj.AssemblyReference.cache
 /AzureMVC/AzureMVC/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+<<<<<<< HEAD
 *.json
 /AzureMVC/AzureMVC/bin/AzureMVC.dll
 *.CopyComplete
@@ -36,3 +37,16 @@
 /AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5.nupkg
 /AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/ThirdPartyNotices.txt
 /AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/EULA.md
+=======
+*.CopyComplete
+/AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/build/Rules/cs-CZ
+/AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/build/Rules
+/AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/build
+/AzureMVC/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.1.19.5/tools
+*.p7s
+*.md
+*.nupkg
+*.txt
+/AzureMVC/AzureMVC/AzureMVC.csproj
+>>>>>>> a91beee9dd0c912ea3fc43cd40b5558b1c35b448
+/AzureMVC/.vs/AzureMVC/v17/.suo
