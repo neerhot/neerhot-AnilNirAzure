@@ -16,3 +16,4 @@
 *.md
 *.nupkg
 *.txt
+/AzureMVC/AzureMVC/AzureMVC.csproj
